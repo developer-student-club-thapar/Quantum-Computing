@@ -18,7 +18,9 @@ Code based Implementation of foundational concepts to research level application
 ## Structure of the Repository
 
 
-Quantum Gates: A cheatsheet on all quantum gates and it’s implementation
+Quantum Gates
+<br>
+A cheatsheet on all quantum gates and it’s implementation
 
 Foundational Concepts
 
@@ -55,26 +57,34 @@ Text Books
 
 
 Online Reading Resources
-    [Learn Quantum Computation using Qiskit](https://qiskit.org/textbook/preface.html)
-    <br>
-    Microsoft’s Learning Path, [Quantum computing foundations](https://docs.microsoft.com/en-us/learn/paths/quantum-computing-fundamentals/)
-    <br>
-    [Beginners Guide to Quantum Computing](https://medium.com/@qcgiitr/beginners-guide-to-quantum-computing-f9059a4ac9a)
+
+[Learn Quantum Computation using Qiskit](https://qiskit.org/textbook/preface.html)
+<br>
+Microsoft’s Learning Path, [Quantum computing foundations](https://docs.microsoft.com/en-us/learn/paths/quantum-computing-fundamentals/)
+<br>
+[Beginners Guide to Quantum Computing](https://medium.com/@qcgiitr/beginners-guide-to-quantum-computing-f9059a4ac9a)
 
 
 Online Watching Content
-    [Introduction to Quantum Computing and Quantum Hardware by Qiskit](https://www.youtube.com/watch?v=Rs2TzarBX5I&list=PLOFEBzvs-VvrXTMy5Y2IqmSaUjfnhvBHR)
-    [Introduction to Quantum Computing: Quantum Algorithms and Qiskit](https://onlinecourses.nptel.ac.in/noc21_cs103/preview)
-    [Quantum Computation by Antonio Leites](https://www.youtube.com/watch?v=Z1uoz_8dLH0&list=PL74Rel4IAsETUwZS_Se_P-fSEyEVQwni7)
+
+[Introduction to Quantum Computing and Quantum Hardware by Qiskit](https://www.youtube.com/watch?v=Rs2TzarBX5I&list=PLOFEBzvs-VvrXTMy5Y2IqmSaUjfnhvBHR)
+<br>
+[Introduction to Quantum Computing: Quantum Algorithms and Qiskit](https://onlinecourses.nptel.ac.in/noc21_cs103/preview)
+<br>
+[Quantum Computation by Antonio Leites](https://www.youtube.com/watch?v=Z1uoz_8dLH0&list=PL74Rel4IAsETUwZS_Se_P-fSEyEVQwni7)
 
 
 Quantum Computing Frameworks
-    Google’s [Cirq](https://quantumai.google/cirq): An open source framework for programming quantum computers
-    Microsoft’s [Q# and the Quantum Development Kit](https://azure.microsoft.com/en-in/resources/development-kit/quantum-computing/#overview)
-    [IBM Quantum Platform](https://www.ibm.com/quantum-computing/)
+
+Google’s [Cirq](https://quantumai.google/cirq): An open source framework for programming quantum computers
+<br>
+Microsoft’s [Q# and the Quantum Development Kit](https://azure.microsoft.com/en-in/resources/development-kit/quantum-computing/#overview)
+<br>
+[IBM Quantum Platform](https://www.ibm.com/quantum-computing/)
 
 Programs and Events
-    [Qubit by Qubit](https://www.qubitbyqubit.org/about)
+
+[Qubit by Qubit](https://www.qubitbyqubit.org/about)
 
 
 
