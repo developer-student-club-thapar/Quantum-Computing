@@ -15,48 +15,48 @@ Code based Implementation of foundational concepts to research level application
 
 </div>
 
-## Structure of the Repository
+# Structure of the Repository
 
 
-Quantum Gates
+### Quantum Gates
 <br>
 A cheatsheet on all quantum gates and it’s implementation
 
-Foundational Concepts
+### Foundational Concepts
 
     Implementation of concepts like
     1. Superposition
     2. Interference
     3. Entanglement
 
-Quantum Algorithms
+### Quantum Algorithms
 
     1. Deutsch Jozsa Algorithm
     2. Bernstein Vazirani Algorithm
     3. Grovers Search
 
-Quantum Machine Learning
+### Quantum Machine Learning
 
 // later
 
-Replication of Research Papers
+### Replication of Research Papers
 
 // later
 
-Applications
+### Applications
 
     1. Quantum Teleportation
     2. Superdense Coding
 
 # Resources
 
-Text Books
+### Text Books
 
     1. Quantum Computation and Quantum Information by Michael A. Nielsen & Isaac L. Chuang
     2. Quantum Mechanics, the theoretical minimum by Leonard Susskind & Art Friedman
 
 
-Online Reading Resources
+### Online Reading Resources
 
 [Learn Quantum Computation using Qiskit](https://qiskit.org/textbook/preface.html)
 <br>
@@ -65,7 +65,7 @@ Microsoft’s Learning Path, [Quantum computing foundations](https://docs.micros
 [Beginners Guide to Quantum Computing](https://medium.com/@qcgiitr/beginners-guide-to-quantum-computing-f9059a4ac9a)
 
 
-Online Watching Content
+### Online Watching Content
 
 [Introduction to Quantum Computing and Quantum Hardware by Qiskit](https://www.youtube.com/watch?v=Rs2TzarBX5I&list=PLOFEBzvs-VvrXTMy5Y2IqmSaUjfnhvBHR)
 <br>
@@ -74,7 +74,7 @@ Online Watching Content
 [Quantum Computation by Antonio Leites](https://www.youtube.com/watch?v=Z1uoz_8dLH0&list=PL74Rel4IAsETUwZS_Se_P-fSEyEVQwni7)
 
 
-Quantum Computing Frameworks
+### Quantum Computing Frameworks
 
 Google’s [Cirq](https://quantumai.google/cirq): An open source framework for programming quantum computers
 <br>
@@ -82,7 +82,7 @@ Microsoft’s [Q# and the Quantum Development Kit](https://azure.microsoft.com/e
 <br>
 [IBM Quantum Platform](https://www.ibm.com/quantum-computing/)
 
-Programs and Events
+### Programs and Events
 
 [Qubit by Qubit](https://www.qubitbyqubit.org/about)
 
