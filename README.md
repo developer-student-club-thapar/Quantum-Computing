@@ -14,39 +14,40 @@
 Code based Implementation of foundational concepts to research level applications in the field of Quantum Computing
 
 </div>
-## Structure of the Repository
 
-# Quantum Gates
+# Structure of the Repository
+
+## Quantum Gates
 A cheatsheet on all quantum gates and it’s implementation
 
-# Foundational Concepts
+## Foundational Concepts
 Implementation of concepts like
 1. Superposition
 2. Interference
 3. Entanglement
 
-# Quantum Algorithms
+## Quantum Algorithms
 1. Deutsch Jozsa Algorithm
 2. Bernstein Vazirani Algorithm
 3. Grovers Search
 
-# Quantum Machine Learning
+## Quantum Machine Learning
 // later
 
-# Replication of Research Papers
+## Replication of Research Papers
 // later
 
-# Applications
+## Applications
 1. Quantum Teleportation
 2. Superdense Coding
 
-## Resources
-# Text Books
+# Resources
+## Text Books
 Quantum Computation and Quantum Information by Michael A. Nielsen & Isaac L. Chuang
 Quantum Mechanics, the theoretical minimum by Leonard Susskind & Art Friedman
 
 
-# Online Reading Resources
+## Online Reading Resources
 Learn Quantum Computation using Qiskit
 https://qiskit.org/textbook/preface.html
 
@@ -57,7 +58,7 @@ Beginners Guide to Quantum Computing
 https://medium.com/@qcgiitr/beginners-guide-to-quantum-computing-f9059a4ac9a
 
 
-# Online Watching Content
+## Online Watching Content
 Introduction to Quantum Computing and Quantum Hardware by Qiskit
 https://www.youtube.com/watch?v=Rs2TzarBX5I&list=PLOFEBzvs-VvrXTMy5Y2IqmSaUjfnhvBHR
 Introduction to Quantum Computing: Quantum Algorithms and Qiskit https://onlinecourses.nptel.ac.in/noc21_cs103/preview
@@ -66,7 +67,7 @@ Quantum Computation by Antonio Leites
 https://www.youtube.com/watch?v=Z1uoz_8dLH0&list=PL74Rel4IAsETUwZS_Se_P-fSEyEVQwni7
 
 
-# Quantum Computing Frameworks
+## Quantum Computing Frameworks
 Google’s Cirq: An open source framework for programming quantum computers
 https://quantumai.google/cirq
 
@@ -76,13 +77,13 @@ https://azure.microsoft.com/en-in/resources/development-kit/quantum-computing/#o
 IBM Quantum Platform
 https://www.ibm.com/quantum-computing/
 
-# Programs and Events
+## Programs and Events
 Qubit by Qubit 
 https://www.qubitbyqubit.org/about
 
 
 
-## Contributors ✨
+# Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
