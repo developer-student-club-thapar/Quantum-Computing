@@ -55,10 +55,11 @@ Text Books
 
 
 Online Reading Resources
-
-    1. [Learn Quantum Computation using Qiskit](https://qiskit.org/textbook/preface.html)
-    2.  Microsoft’s Learning Path, [Quantum computing foundations](https://docs.microsoft.com/en-us/learn/paths/quantum-computing-fundamentals/)
-    3. [Beginners Guide to Quantum Computing](https://medium.com/@qcgiitr/beginners-guide-to-quantum-computing-f9059a4ac9a)
+    [Learn Quantum Computation using Qiskit](https://qiskit.org/textbook/preface.html)
+    <br>
+    Microsoft’s Learning Path, [Quantum computing foundations](https://docs.microsoft.com/en-us/learn/paths/quantum-computing-fundamentals/)
+    <br>
+    [Beginners Guide to Quantum Computing](https://medium.com/@qcgiitr/beginners-guide-to-quantum-computing-f9059a4ac9a)
 
 
 Online Watching Content
