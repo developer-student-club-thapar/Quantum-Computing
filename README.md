@@ -18,9 +18,7 @@ Code based Implementation of foundational concepts to research level application
 ## Structure of the Repository
 
 
-Quantum Gates
-
-A cheatsheet on all quantum gates and it’s implementation
+Quantum Gates: A cheatsheet on all quantum gates and it’s implementation
 
 Foundational Concepts
 
@@ -36,26 +34,31 @@ Quantum Algorithms
     3. Grovers Search
 
 Quantum Machine Learning
+
 // later
 
 Replication of Research Papers
+
 // later
 
 Applications
+
     1. Quantum Teleportation
     2. Superdense Coding
 
 # Resources
 
 Text Books
+
     1. Quantum Computation and Quantum Information by Michael A. Nielsen & Isaac L. Chuang
     2. Quantum Mechanics, the theoretical minimum by Leonard Susskind & Art Friedman
 
 
 Online Reading Resources
-    [Learn Quantum Computation using Qiskit](https://qiskit.org/textbook/preface.html)
-    Microsoft’s Learning Path, [Quantum computing foundations](https://docs.microsoft.com/en-us/learn/paths/quantum-computing-fundamentals/)
-    [Beginners Guide to Quantum Computing](https://medium.com/@qcgiitr/beginners-guide-to-quantum-computing-f9059a4ac9a)
+
+    1. [Learn Quantum Computation using Qiskit](https://qiskit.org/textbook/preface.html)
+    2.  Microsoft’s Learning Path, [Quantum computing foundations](https://docs.microsoft.com/en-us/learn/paths/quantum-computing-fundamentals/)
+    3. [Beginners Guide to Quantum Computing](https://medium.com/@qcgiitr/beginners-guide-to-quantum-computing-f9059a4ac9a)
 
 
 Online Watching Content
