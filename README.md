@@ -19,15 +19,18 @@ Code based Implementation of foundational concepts to research level application
 
 
 Quantum Gates
+
 A cheatsheet on all quantum gates and it’s implementation
 
 Foundational Concepts
+
     Implementation of concepts like
     1. Superposition
     2. Interference
     3. Entanglement
 
 Quantum Algorithms
+
     1. Deutsch Jozsa Algorithm
     2. Bernstein Vazirani Algorithm
     3. Grovers Search
@@ -51,25 +54,19 @@ Text Books
 
 Online Reading Resources
     [Learn Quantum Computation using Qiskit](https://qiskit.org/textbook/preface.html)
-
-    [Microsoft’s Learning Path, Quantum computing foundations](https://docs.microsoft.com/en-us/learn/paths/quantum-computing-fundamentals/)
-
+    Microsoft’s Learning Path, [Quantum computing foundations](https://docs.microsoft.com/en-us/learn/paths/quantum-computing-fundamentals/)
     [Beginners Guide to Quantum Computing](https://medium.com/@qcgiitr/beginners-guide-to-quantum-computing-f9059a4ac9a)
 
 
 Online Watching Content
     [Introduction to Quantum Computing and Quantum Hardware by Qiskit](https://www.youtube.com/watch?v=Rs2TzarBX5I&list=PLOFEBzvs-VvrXTMy5Y2IqmSaUjfnhvBHR)
-
     [Introduction to Quantum Computing: Quantum Algorithms and Qiskit](https://onlinecourses.nptel.ac.in/noc21_cs103/preview)
-
     [Quantum Computation by Antonio Leites](https://www.youtube.com/watch?v=Z1uoz_8dLH0&list=PL74Rel4IAsETUwZS_Se_P-fSEyEVQwni7)
 
 
 Quantum Computing Frameworks
     Google’s [Cirq](https://quantumai.google/cirq): An open source framework for programming quantum computers
-    
     Microsoft’s [Q# and the Quantum Development Kit](https://azure.microsoft.com/en-in/resources/development-kit/quantum-computing/#overview)
-
     [IBM Quantum Platform](https://www.ibm.com/quantum-computing/)
 
 Programs and Events
@@ -79,7 +76,7 @@ Programs and Events
 
 # Contributors ✨
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+<!-- Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)): -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
