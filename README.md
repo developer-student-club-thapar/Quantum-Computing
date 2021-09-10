@@ -50,8 +50,7 @@ Quantum Mechanics, the theoretical minimum by Leonard Susskind & Art Friedman
 
 
 ## Online Reading Resources
-[Learn Quantum Computation using Qiskit]
-(https://qiskit.org/textbook/preface.html)
+[Learn Quantum Computation using Qiskit] (https://qiskit.org/textbook/preface.html)
 
 Microsoft’s Learning Path, Quantum computing foundations 
 https://docs.microsoft.com/en-us/learn/paths/quantum-computing-fundamentals/
