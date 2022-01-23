@@ -15,41 +15,59 @@ Code based Implementation of foundational concepts to research level application
 
 </div>
 
-# Index of the Repository
+## Index of the Repository
 
 1. [Introduction to Quantum Computing](https://www.youtube.com/watch?v=WMRsQxDJ19Q&list=PLY6CWF3NWYvTducILRZCATDwW9DjZvumJ&index=1)
 This is the first video in our Quantum Computing playlist which introduces quantum computing and explains the need for it in the near future.
 
 2. Representing a qubit
+
 2.1 [Dirac Notation](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/1.%20Representing%20a%20qubit/Dirac%20Notation%20(Bra-Ket%20Notation).pdf)
+
 Dirac Notation also know as Bra-Ket Notation explains how qubits are represented as state vectors and how they can be manipulated mathematically just like vectors in a hilbert space. The concept is explained in this [video](https://www.youtube.com/watch?v=53EVUDbeVsU&list=PLY6CWF3NWYvTducILRZCATDwW9DjZvumJ&index=2).
 
 2.2 [Bloch Sphere](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/1.%20Representing%20a%20qubit/Bloch%20Sphere.pdf)
+
 Bloch Sphere is the visual representation of a qubit, and is further elucidated upon in this [video](https://www.youtube.com/watch?v=7ITVHGYFIfU&list=PLY6CWF3NWYvTducILRZCATDwW9DjZvumJ&index=4).
 
 2.3 [Representing a qubit using Qiskit](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/1.%20Representing%20a%20qubit/representing_qubit_states.ipynb)
+
 In this jupyer notebook, qubit is created as a dirac notation and represented on the bloch sphere. Qiskit is a python library created by IBM for Quantum Computing. The code is explained [here](https://www.youtube.com/watch?v=7ITVHGYFIfU&list=PLY6CWF3NWYvTducILRZCATDwW9DjZvumJ&index=4).
 
 3. Quantum Postulates
+
 3.1 [Six Postulates of Quantum Computing](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/2.%20Quantum%20Postulates/quantum_postulates.ipynb)
+
 This explains the 6 ground rules that qubits follow and allow us to represent, transform, and measure them.It also allows us to calculate the probability of qubit to be in a given state, once measured. It also tells us how a qubit gets transformed over a period of time, by the application of multiple operators. More on it in this [video].
 
 3.2 [Stern Gerlach Experiment](https://www.youtube.com/watch?v=fWaNjJ69XEI&list=PLY6CWF3NWYvTducILRZCATDwW9DjZvumJ&index=3)
+
 It explains what to expect on measuring a qubit and derives the 3 axes of the bloch sphere.
 
 4. Single Qubit Gates
+
 4.1 [X, Y, Z, H Gates](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/3.%20Single%20Qubit%20Gates/Pauli%20X%2C%20Y%20and%20Z%20Gates%20%26%20Hadamard%20Gate.ipynb)
+
 X Gate: 180 degree rotation about x axis
+
 Y Gate: 180 degree rotation about y axis
+
 Z Gate: 180 degree rotation about z axis
+
 H Gate: transforms x basis to x
 
 4.2 [Rx, Ry, Rz, P, S, T Gates](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/3.%20Single%20Qubit%20Gates/Rx%2Cy%2Cz%20and%20P%2C%20S%2C%20T%20Gates.ipynb)
+
 Rx Gate: theta degree rotation about x axis
+
 Ry Gate: theta degree rotation about y axis
+
 Rz Gate: theta degree rotation about z axis
+
 P Gate: theta degree rotation about z axis
+
 S Gate: 90 degree rotation about z axis
+
 T Gate: 45 degree rotation about z axis
 
 4.3 U Gate and Universality
@@ -71,7 +89,7 @@ T Gate: 45 degree rotation about z axis
 5.4 [Bell States and Entanglement](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/4.%20Multi-Qubit%20Gates/4.%20Bell%20States%20and%20Entanglement.pdf)
 
 
-# Resources
+## Resources
 
 [Learning Resources on Quantum Computing](https://docs.google.com/document/d/1StHRRskl1HR-XfIdoQ1srs0E6_kHuwYSWj-bhnmJQ88/edit?usp=sharing)
 
