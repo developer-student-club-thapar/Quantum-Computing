@@ -18,13 +18,12 @@ Code based Implementation of foundational concepts to research level application
 ## Index of the Repository
 
 1. [Introduction to Quantum Computing](https://www.youtube.com/watch?v=WMRsQxDJ19Q&list=PLY6CWF3NWYvTducILRZCATDwW9DjZvumJ&index=1)
-This is the first video in our Quantum Computing playlist which introduces quantum computing and explains the need for it in the near future.
+<br>This is the first video in our Quantum Computing playlist which introduces quantum computing and explains the need for it in the near future.
 
 2. Representing a qubit
 
 2.1 [Dirac Notation](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/1.%20Representing%20a%20qubit/Dirac%20Notation%20(Bra-Ket%20Notation).pdf)
-
-Dirac Notation also know as Bra-Ket Notation explains how qubits are represented as state vectors and how they can be manipulated mathematically just like vectors in a hilbert space. The concept is explained in this [video](https://www.youtube.com/watch?v=53EVUDbeVsU&list=PLY6CWF3NWYvTducILRZCATDwW9DjZvumJ&index=2).
+<br>Dirac Notation also know as Bra-Ket Notation explains how qubits are represented as state vectors and how they can be manipulated mathematically just like vectors in a hilbert space. The concept is explained in this [video](https://www.youtube.com/watch?v=53EVUDbeVsU&list=PLY6CWF3NWYvTducILRZCATDwW9DjZvumJ&index=2).
 
 2.2 [Bloch Sphere](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/1.%20Representing%20a%20qubit/Bloch%20Sphere.pdf)
 
