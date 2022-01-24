@@ -29,7 +29,7 @@ Code based Implementation of foundational concepts to research level application
 <br>Bloch Sphere is the visual representation of a qubit, and is further elucidated upon in this [video](https://www.youtube.com/watch?v=7ITVHGYFIfU&list=PLY6CWF3NWYvTducILRZCATDwW9DjZvumJ&index=4).
 
 &nbsp;&nbsp;&nbsp;&nbsp;[2.3 Representing a qubit using Qiskit](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/1.%20Representing%20a%20qubit/representing_qubit_states.ipynb)
-<br>In this jupyer notebook, qubit is created as a dirac notation and represented on the bloch sphere. Qiskit is a python library created by IBM for Quantum Computing. The code is explained [here](https://www.youtube.com/watch?v=7ITVHGYFIfU&list=PLY6CWF3NWYvTducILRZCATDwW9DjZvumJ&index=4).
+<br>In this jupyer notebook, qubit is created as a dirac notation and represented on the bloch sphere. Qiskit is a python library created by IBM for Quantum Computing. The code is explained [here](https://www.youtube.com/watch?v=5Sz9I2p328E&list=PLY6CWF3NWYvTducILRZCATDwW9DjZvumJ&index=5).
 
 [3. Quantum Postulates](https://github.com/developer-student-club-thapar/Quantum-Computing/tree/main/2.%20Quantum%20Postulates)
 
