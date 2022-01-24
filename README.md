@@ -17,37 +17,37 @@ Code based Implementation of foundational concepts to research level application
 
 ## Index of the Repository
 
-1. [Introduction to Quantum Computing](https://www.youtube.com/watch?v=WMRsQxDJ19Q&list=PLY6CWF3NWYvTducILRZCATDwW9DjZvumJ&index=1)
+[1. Introduction to Quantum Computing](https://www.youtube.com/watch?v=WMRsQxDJ19Q&list=PLY6CWF3NWYvTducILRZCATDwW9DjZvumJ&index=1)
 <br>This is the first video in our Quantum Computing playlist which introduces quantum computing and explains the need for it in the near future.
 
-2. Representing a qubit
+[2. Representing a qubit](https://github.com/developer-student-club-thapar/Quantum-Computing/tree/main/1.%20Representing%20a%20qubit)
 
-2.1 [Dirac Notation](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/1.%20Representing%20a%20qubit/Dirac%20Notation%20(Bra-Ket%20Notation).pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;[2.1 Dirac Notation](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/1.%20Representing%20a%20qubit/Dirac%20Notation%20(Bra-Ket%20Notation).pdf)
 <br>Dirac Notation also know as Bra-Ket Notation explains how qubits are represented as state vectors and how they can be manipulated mathematically just like vectors in a hilbert space. The concept is explained in this [video](https://www.youtube.com/watch?v=53EVUDbeVsU&list=PLY6CWF3NWYvTducILRZCATDwW9DjZvumJ&index=2).
 
-2.2 [Bloch Sphere](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/1.%20Representing%20a%20qubit/Bloch%20Sphere.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;[2.2 Bloch Sphere](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/1.%20Representing%20a%20qubit/Bloch%20Sphere.pdf)
 <br>Bloch Sphere is the visual representation of a qubit, and is further elucidated upon in this [video](https://www.youtube.com/watch?v=7ITVHGYFIfU&list=PLY6CWF3NWYvTducILRZCATDwW9DjZvumJ&index=4).
 
-2.3 [Representing a qubit using Qiskit](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/1.%20Representing%20a%20qubit/representing_qubit_states.ipynb)
+&nbsp;&nbsp;&nbsp;&nbsp;[2.3 Representing a qubit using Qiskit](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/1.%20Representing%20a%20qubit/representing_qubit_states.ipynb)
 <br>In this jupyer notebook, qubit is created as a dirac notation and represented on the bloch sphere. Qiskit is a python library created by IBM for Quantum Computing. The code is explained [here](https://www.youtube.com/watch?v=7ITVHGYFIfU&list=PLY6CWF3NWYvTducILRZCATDwW9DjZvumJ&index=4).
 
-3. Quantum Postulates
+[3. Quantum Postulates](https://github.com/developer-student-club-thapar/Quantum-Computing/tree/main/2.%20Quantum%20Postulates)
 
-3.1 [Six Postulates of Quantum Computing](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/2.%20Quantum%20Postulates/quantum_postulates.ipynb)
+&nbsp;&nbsp;&nbsp;&nbsp;[3.1 Six Postulates of Quantum Computing](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/2.%20Quantum%20Postulates/quantum_postulates.ipynb)
 <br>This explains the 6 ground rules that qubits follow and allow us to represent, transform, and measure them.It also allows us to calculate the probability of qubit to be in a given state, once measured. It also tells us how a qubit gets transformed over a period of time, by the application of multiple operators. More on it in this [video].
 
-3.2 [Stern Gerlach Experiment](https://www.youtube.com/watch?v=fWaNjJ69XEI&list=PLY6CWF3NWYvTducILRZCATDwW9DjZvumJ&index=3)
+&nbsp;&nbsp;&nbsp;&nbsp;[3.2 Stern Gerlach Experiment](https://www.youtube.com/watch?v=fWaNjJ69XEI&list=PLY6CWF3NWYvTducILRZCATDwW9DjZvumJ&index=3)
 <br>It explains what to expect on measuring a qubit and derives the 3 axes of the bloch sphere.
 
-4. Single Qubit Gates
+[4. Single Qubit Gates](https://github.com/developer-student-club-thapar/Quantum-Computing/tree/main/3.%20Single%20Qubit%20Gates)
 
-4.1 [X, Y, Z, H Gates](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/3.%20Single%20Qubit%20Gates/Pauli%20X%2C%20Y%20and%20Z%20Gates%20%26%20Hadamard%20Gate.ipynb)
+&nbsp;&nbsp;&nbsp;&nbsp;[4.1 X, Y, Z, H Gates](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/3.%20Single%20Qubit%20Gates/Pauli%20X%2C%20Y%20and%20Z%20Gates%20%26%20Hadamard%20Gate.ipynb)
 <br>X Gate: 180 degree rotation about x axis
 <br>Y Gate: 180 degree rotation about y axis
 <br>Z Gate: 180 degree rotation about z axis
 <br>H Gate: transforms x basis to x
 
-4.2 [Rx, Ry, Rz, P, S, T Gates](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/3.%20Single%20Qubit%20Gates/Rx%2Cy%2Cz%20and%20P%2C%20S%2C%20T%20Gates.ipynb)
+&nbsp;&nbsp;&nbsp;&nbsp;[4.2 Rx, Ry, Rz, P, S, T Gates](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/3.%20Single%20Qubit%20Gates/Rx%2Cy%2Cz%20and%20P%2C%20S%2C%20T%20Gates.ipynb)
 <br>Rx Gate: theta degree rotation about x axis
 <br>Ry Gate: theta degree rotation about y axis
 <br>Rz Gate: theta degree rotation about z axis
@@ -55,23 +55,23 @@ Code based Implementation of foundational concepts to research level application
 <br>S Gate: 90 degree rotation about z axis
 <br>T Gate: 45 degree rotation about z axis
 
-4.3 U Gate and Universality
+&nbsp;&nbsp;&nbsp;&nbsp;4.3 U Gate and Universality
 
-4.4 [Single Qubit Gates Cheatsheet](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/3.%20Single%20Qubit%20Gates/1.%20Single%20Qubit%20Quantum%20Gates.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;[4.4 Single Qubit Gates Cheatsheet](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/3.%20Single%20Qubit%20Gates/1.%20Single%20Qubit%20Quantum%20Gates.pdf)
 
-4.5 [Quantum Universality Cheatsheet](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/3.%20Single%20Qubit%20Gates/2.%20Quantum%20Universality.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;[4.5 Quantum Universality Cheatsheet](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/3.%20Single%20Qubit%20Gates/2.%20Quantum%20Universality.pdf)
 
-4.6 [Bloch Sphere Rotations by single qubit gates](https://github.com/developer-student-club-thapar/Quantum-Computing/tree/main/3.%20Single%20Qubit%20Gates/bloch_transformations)
+&nbsp;&nbsp;&nbsp;&nbsp;[4.6 Bloch Sphere Rotations by single qubit gates](https://github.com/developer-student-club-thapar/Quantum-Computing/tree/main/3.%20Single%20Qubit%20Gates/bloch_transformations)
 
-5. Multi-Qubit Gates
+[5. Multi-Qubit Gates](https://github.com/developer-student-club-thapar/Quantum-Computing/tree/main/4.%20Multi-Qubit%20Gates)
 
-5.1 [Quantum Circuit Model](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/4.%20Multi-Qubit%20Gates/1.%20Quantum%20Circuit%20Model%20and%20Multi-Qubit%20Gate%20Mathematics.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;[5.1 Quantum Circuit Model](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/4.%20Multi-Qubit%20Gates/1.%20Quantum%20Circuit%20Model%20and%20Multi-Qubit%20Gate%20Mathematics.pdf)
 
-5.2 [Controlled Gates](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/4.%20Multi-Qubit%20Gates/2.%20Controlled%20Gates.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;[5.2 Controlled Gates](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/4.%20Multi-Qubit%20Gates/2.%20Controlled%20Gates.pdf)
 
-5.3 [Swap Gates](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/4.%20Multi-Qubit%20Gates/3.%20Swap%20Gate.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;[5.3 Swap Gates](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/4.%20Multi-Qubit%20Gates/3.%20Swap%20Gate.pdf)
 
-5.4 [Bell States and Entanglement](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/4.%20Multi-Qubit%20Gates/4.%20Bell%20States%20and%20Entanglement.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;[5.4 Bell States and Entanglement](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/4.%20Multi-Qubit%20Gates/4.%20Bell%20States%20and%20Entanglement.pdf)
 
 
 ## Resources
