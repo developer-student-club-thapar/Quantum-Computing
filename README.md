@@ -18,26 +18,26 @@ Code based Implementation of foundational concepts to research level application
 ## Index of the Repository
 
 [1. Introduction to Quantum Computing](https://www.youtube.com/watch?v=WMRsQxDJ19Q&list=PLY6CWF3NWYvTducILRZCATDwW9DjZvumJ&index=1)
-<br>This is the first video in our Quantum Computing playlist which introduces quantum computing and explains the need for it in the near future.
+<br>This is the introductory video of our Quantum Computing playlist which explains the need for quantum computing and its foundational principles.
 
 [2. Representing a qubit](https://github.com/developer-student-club-thapar/Quantum-Computing/tree/main/1.%20Representing%20a%20qubit)
 
 &nbsp;&nbsp;&nbsp;&nbsp;[2.1 Dirac Notation](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/1.%20Representing%20a%20qubit/Dirac%20Notation%20(Bra-Ket%20Notation).pdf)
-<br>Dirac Notation also know as Bra-Ket Notation explains how qubits are represented as state vectors and how they can be manipulated mathematically just like vectors in a hilbert space. The concept is explained in this [video](https://www.youtube.com/watch?v=53EVUDbeVsU&list=PLY6CWF3NWYvTducILRZCATDwW9DjZvumJ&index=2).
+<br>Dirac Notation also know as Bra-Ket Notation explains how qubits are represented as state vectors in superposition and how they can be manipulated mathematically just like vectors in hilbert space. The concept is explained in this [video](https://www.youtube.com/watch?v=53EVUDbeVsU&list=PLY6CWF3NWYvTducILRZCATDwW9DjZvumJ&index=2).
 
 &nbsp;&nbsp;&nbsp;&nbsp;[2.2 Bloch Sphere](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/1.%20Representing%20a%20qubit/Bloch%20Sphere.pdf)
 <br>Bloch Sphere is the visual representation of a qubit, and is further elucidated upon in this [video](https://www.youtube.com/watch?v=7ITVHGYFIfU&list=PLY6CWF3NWYvTducILRZCATDwW9DjZvumJ&index=4).
 
 &nbsp;&nbsp;&nbsp;&nbsp;[2.3 Representing a qubit using Qiskit](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/1.%20Representing%20a%20qubit/representing_qubit_states.ipynb)
-<br>In this jupyer notebook, qubit is created as a dirac notation and represented on the bloch sphere. Qiskit is a python library created by IBM for Quantum Computing. The code is explained [here](https://www.youtube.com/watch?v=5Sz9I2p328E&list=PLY6CWF3NWYvTducILRZCATDwW9DjZvumJ&index=5).
+<br>In this jupyer notebook, qubit is created as a dirac notation and represented on the bloch sphere using qiskit. Qiskit is a software development kit created by IBM for Quantum Computing. The code is explained in this [video](https://www.youtube.com/watch?v=5Sz9I2p328E&list=PLY6CWF3NWYvTducILRZCATDwW9DjZvumJ&index=5).
 
 [3. Quantum Postulates](https://github.com/developer-student-club-thapar/Quantum-Computing/tree/main/2.%20Quantum%20Postulates)
 
 &nbsp;&nbsp;&nbsp;&nbsp;[3.1 Six Postulates of Quantum Computing](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/2.%20Quantum%20Postulates/quantum_postulates.ipynb)
-<br>This explains the 6 ground rules that qubits follow and allow us to represent, transform, and measure them.It also allows us to calculate the probability of qubit to be in a given state, once measured. It also tells us how a qubit gets transformed over a period of time, by the application of multiple operators. More on it in this [video].
+<br>This [video](https://www.youtube.com/watch?v=G7paU9FX5nw&list=PLY6CWF3NWYvTducILRZCATDwW9DjZvumJ&index=6&t=3s) explains the 6 ground rules that are followed to represent, transform, and measure qubits. It also allows us to calculate the probability of a qubit to be in a given state, once measured. It tells us how a qubit gets transformed over a period of time, by the application of multiple operators.
 
 &nbsp;&nbsp;&nbsp;&nbsp;[3.2 Stern Gerlach Experiment](https://www.youtube.com/watch?v=fWaNjJ69XEI&list=PLY6CWF3NWYvTducILRZCATDwW9DjZvumJ&index=3)
-<br>It explains what to expect on measuring a qubit and derives the 3 axes of the bloch sphere.
+<br>It explains what to expect on measuring a qubit and derives the 3 axes of the bloch sphere from the result of Stern Gerlach experiment.
 
 [4. Single Qubit Gates](https://github.com/developer-student-club-thapar/Quantum-Computing/tree/main/3.%20Single%20Qubit%20Gates)
 
@@ -45,35 +45,62 @@ Code based Implementation of foundational concepts to research level application
 <br>X Gate: 180 degree rotation about x axis
 <br>Y Gate: 180 degree rotation about y axis
 <br>Z Gate: 180 degree rotation about z axis
-<br>H Gate: transforms x basis to x
+<br>H Gate: transforms x basis to x, puts a qubit into uniform superposition
+<br>These gates are explained in this [video](https://www.youtube.com/watch?v=wta0o3fLOnk&list=PLY6CWF3NWYvTducILRZCATDwW9DjZvumJ&index=7)
 
 &nbsp;&nbsp;&nbsp;&nbsp;[4.2 Rx, Ry, Rz, P, S, T Gates](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/3.%20Single%20Qubit%20Gates/Rx%2Cy%2Cz%20and%20P%2C%20S%2C%20T%20Gates.ipynb)
 <br>Rx Gate: theta degree rotation about x axis
 <br>Ry Gate: theta degree rotation about y axis
-<br>Rz Gate: theta degree rotation about z axis
-<br>P Gate: theta degree rotation about z axis
-<br>S Gate: 90 degree rotation about z axis
-<br>T Gate: 45 degree rotation about z axis
+<br>Rz Gate: theta degree rotation about z axis (Phase Gate)
+<br>P Gate: theta degree rotation about z axis (Phase Gate)
+<br>S Gate: 90 degree rotation about z axis (Phase Gate)
+<br>T Gate: 45 degree rotation about z axis (Phase Gate)
+<br>These gates are explained in this [video]()
 
-&nbsp;&nbsp;&nbsp;&nbsp;4.3 U Gate and Universality
+&nbsp;&nbsp;&nbsp;&nbsp;[4.3 Universality, Fidelity and Clifford](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/3.%20Single%20Qubit%20Gates/universality_and_fidelity.ipynb)
+<br>All the single qubit gates discussed so far, are created using the U Gate also known as the Universal gate which can be parameterised to form any gate, using angles on the bloch sphere. Interesting relations between gates are studied, which gives them the property of being clifford, all these relations are tested for equivalence using fidelity
 
 &nbsp;&nbsp;&nbsp;&nbsp;[4.4 Single Qubit Gates Cheatsheet](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/3.%20Single%20Qubit%20Gates/1.%20Single%20Qubit%20Quantum%20Gates.pdf)
+<br>Summary of all single qubit gate
 
 &nbsp;&nbsp;&nbsp;&nbsp;[4.5 Quantum Universality Cheatsheet](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/3.%20Single%20Qubit%20Gates/2.%20Quantum%20Universality.pdf)
+<br>Composing Pauli Gates using H and T Gates
 
-&nbsp;&nbsp;&nbsp;&nbsp;[4.6 Bloch Sphere Rotations by single qubit gates](https://github.com/developer-student-club-thapar/Quantum-Computing/tree/main/3.%20Single%20Qubit%20Gates/bloch_transformations)
 
 [5. Multi-Qubit Gates](https://github.com/developer-student-club-thapar/Quantum-Computing/tree/main/4.%20Multi-Qubit%20Gates)
 
 &nbsp;&nbsp;&nbsp;&nbsp;[5.1 Quantum Circuit Model](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/4.%20Multi-Qubit%20Gates/1.%20Quantum%20Circuit%20Model%20and%20Multi-Qubit%20Gate%20Mathematics.pdf)
+<br>This explains how muliple qubit quantum circuits are created and the mathematics of calculating the effective operator of the circuit and the states using Kronecker Product of the vector states and matrix gates. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;[5.2 Controlled Gates](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/4.%20Multi-Qubit%20Gates/2.%20Controlled%20Gates.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;[5.2 Controlled Gates]()
+<br>This explains the functioning of 2 qubit control gates wherein one qubit is the control and other is the target, the controlled version of all single qubit gates are examined. Interesting concepts like Phase Kickback are also studied. [Notes](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/4.%20Multi-Qubit%20Gates/2.%20Controlled%20Gates.pdf)
 
-&nbsp;&nbsp;&nbsp;&nbsp;[5.3 Swap Gates](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/4.%20Multi-Qubit%20Gates/3.%20Swap%20Gate.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;[5.3 Swap Gates]()
+<br>Swap Gate essentially performs its namesake, it swaps the state of 2 qubits or reverses the state incase of n qubits. They can be formed from a combination of CNOT gates as well. [Notes](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/4.%20Multi-Qubit%20Gates/3.%20Swap%20Gate.pdf)
 
-&nbsp;&nbsp;&nbsp;&nbsp;[5.4 Bell States and Entanglement](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/4.%20Multi-Qubit%20Gates/4.%20Bell%20States%20and%20Entanglement.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;[5.4 Bell States and Entanglement](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/4.%20Multi-Qubit%20Gates/Bell%20States.ipynb)
+<br>Here entanglement is understood from its direct application in the formation of bell states using single and multi qubit gates. [Notes](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/4.%20Multi-Qubit%20Gates/4.%20Bell%20States%20and%20Entanglement.pdf)
 
+&nbsp;&nbsp;&nbsp;&nbsp;[5.5 Universality Part 2]()
+<br>Universality is further explained, continuing from concepts learnt in [4.3](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/3.%20Single%20Qubit%20Gates/universality_and_fidelity.ipynb). We can create n-qubit gates using the gates we have seen till now.
 
+&nbsp;&nbsp;&nbsp;&nbsp;[5.6 Three Qubit Gates]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[5.6.1 Toffoli Gate]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[5.6.2 Fredkin Gate]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[5.6.3 Mølmer–Sørensen Gate]()
+
+[6. Qiskit Specific Stuff](https://github.com/developer-student-club-thapar/Quantum-Computing/tree/main/6.%20Qiskit%20Specific%20Stuff)
+
+&nbsp;&nbsp;&nbsp;&nbsp;[6.1 Visualisations](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/6.%20Qiskit%20Specific%20Stuff/Visualisations.ipynb)
+<br>Plotting diagrams like histogram, bloch sphere, qsphere, hinton, city, paulivec etc and different ways of drawing quantum circuits.
+
+&nbsp;&nbsp;&nbsp;&nbsp;[6.2 Backends](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/6.%20Qiskit%20Specific%20Stuff/Backends.ipynb)
+<br>Goes through different backend simulators offered by qiskit, along with gate and error maps of real quantum hardware available with IBM.
+
+&nbsp;&nbsp;&nbsp;&nbsp;[6.3 OpenQasm](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/6.%20Qiskit%20Specific%20Stuff/Qasm.ipynb)
+<br>It is Open Quantum Assembly Language for writing instructions for quantum circuits.
+
+&nbsp;&nbsp;&nbsp;&nbsp;[6.4 Advanced Circuits](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/6.%20Qiskit%20Specific%20Stuff/Advanced%20Circuits.ipynb)
 ## Resources
 
 [Learning Resources on Quantum Computing](https://docs.google.com/document/d/1StHRRskl1HR-XfIdoQ1srs0E6_kHuwYSWj-bhnmJQ88/edit?usp=sharing)
