@@ -85,9 +85,9 @@ Code based Implementation of foundational concepts to research level application
 <br>Universality is further explained, continuing from concepts learnt in [4.3](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/3.%20Single%20Qubit%20Gates/universality_and_fidelity.ipynb). We can create n-qubit gates using the gates we have seen till now.
 
 &nbsp;&nbsp;&nbsp;&nbsp;[5.6 Three Qubit Gates]()
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[5.6.1 Toffoli Gate]()
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[5.6.2 Fredkin Gate]()
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[5.6.3 Mølmer–Sørensen Gate]()
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[5.6.1 Toffoli Gate]()
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[5.6.2 Fredkin Gate]()
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[5.6.3 Mølmer–Sørensen Gate]()
 
 [6. Qiskit Specific Stuff](https://github.com/developer-student-club-thapar/Quantum-Computing/tree/main/6.%20Qiskit%20Specific%20Stuff)
 
