@@ -114,7 +114,7 @@ We would like to thank these wonderful people who helped us to build this projec
 <table>
   <tr>
     <td align="center"><a href="https://www.linkedin.com/in/sanya-nanda-aba12218b//"><img src="https://avatars.githubusercontent.com/u/51756349?v=4" width="100px;" alt=""/><br /><sub><b>Sanya Nanda</b></sub></a><br /><a href="https://github.com/developer-student-club-thapar/Quantum-Computing/commits?author=SanyaNanda" title="Documentation">📖</a><a href="https://github.com/developer-student-club-thapar/Quantum-Computing/commits?author=SanyaNanda" title="Code">💻</a> <a href="https://github.com/developer-student-club-thapar/Quantum-Computing/commits?author=SanyaNanda" title="Design">🎨</a></td>
-     <td align="center"><a href="https://www.linkedin.com/in/sanya-nanda-aba12218b//"><img src="https://avatars.githubusercontent.com/u/51756349?v=4" width="100px;" alt=""/><br /><sub><b>Sanya Nanda</b></sub></a><br /><a href="https://github.com/developer-student-club-thapar/Quantum-Computing/commits?author=SanyaNanda" title="Documentation">📖</a><a href="https://github.com/developer-student-club-thapar/Quantum-Computing/commits?author=SanyaNanda" title="Code">💻</a> <a href="https://github.com/developer-student-club-thapar/Quantum-Computing/commits?author=SanyaNanda" title="Design">🎨</a></td>
+    
     
    </tr>
 </table>
