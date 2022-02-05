@@ -51,10 +51,10 @@ This Repository covers the basics of quantum computing with notes, reference she
 <br>These gates are explained in this [video](https://www.youtube.com/watch?v=wta0o3fLOnk&list=PLY6CWF3NWYvTducILRZCATDwW9DjZvumJ&index=7)
 
 &nbsp;&nbsp;&nbsp;&nbsp;[4.2 Rx, Ry, Rz, P, S, T Gates](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/3.%20Single%20Qubit%20Gates/b.%20Rx%2Cy%2Cz%20and%20P%2C%20S%2C%20T%20Gates.ipynb)
-<br>Rx Gate: $\theta$ degree rotation about x axis
-<br>Ry Gate: $\theta$ degree rotation about y axis
-<br>Rz Gate: $\theta$ degree rotation about z axis (Phase Gate)
-<br>P Gate: $\theta$ degree rotation about z axis (Phase Gate)
+<br>Rx Gate: Θ degree rotation about x axis
+<br>Ry Gate: Θ degree rotation about y axis
+<br>Rz Gate: Θ degree rotation about z axis (Phase Gate)
+<br>P Gate: Θ degree rotation about z axis (Phase Gate)
 <br>S Gate: 90 degree rotation about z axis (Phase Gate)
 <br>T Gate: 45 degree rotation about z axis (Phase Gate)
 <br>These gates are explained in this [video1](https://www.youtube.com/watch?v=YAAnkwe-jVU&list=PLY6CWF3NWYvTducILRZCATDwW9DjZvumJ&index=8) and [video2](https://www.youtube.com/watch?v=Mf2aWvRHmtg&list=PLY6CWF3NWYvTducILRZCATDwW9DjZvumJ&index=9)
@@ -90,7 +90,7 @@ This Repository covers the basics of quantum computing with notes, reference she
 <br>Three qubit gates like Toffoli Gate, Fredkin Gate, Mølmer–Sørensen Gate etc are studied here.
 
 &nbsp;&nbsp;&nbsp;&nbsp;[5.7 GHZ State](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/4.%20Multi-Qubit%20Gates/g.%20GHZstate.ipynb)
-<br>Three qubit entanglementis covered here.
+<br>Three qubit entanglement is covered here.
 
 [6. Qiskit Specific Stuff](https://github.com/developer-student-club-thapar/Quantum-Computing/tree/main/5.%20Qiskit%20Specific%20Stuff)
 
@@ -103,10 +103,11 @@ This Repository covers the basics of quantum computing with notes, reference she
 &nbsp;&nbsp;&nbsp;&nbsp;[6.3 OpenQasm](https://github.com/developer-student-club-thapar/Quantum-Computing/blob/main/5.%20Qiskit%20Specific%20Stuff/3.%20Qasm.ipynb)
 <br>It is Open Quantum Assembly Language for writing instructions for quantum circuits.
 
+## List of Compiled Learning Resources
 
 [Learning Resources on Quantum Computing](https://docs.google.com/document/d/1StHRRskl1HR-XfIdoQ1srs0E6_kHuwYSWj-bhnmJQ88/edit?usp=sharing)
 
-# Contributors ✨
+## Contributors ✨
 
 We would like to thank these wonderful people who helped us to build this project. Cheers!
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -116,13 +117,10 @@ We would like to thank these wonderful people who helped us to build this projec
   <tr>
     <td align="center"><a href="https://www.linkedin.com/in/sanya-nanda-aba12218b//"><img src="https://avatars.githubusercontent.com/u/51756349?v=4" width="100px;" alt=""/><br /><sub><b>Sanya Nanda</b></sub></a><br /><a href="https://github.com/developer-student-club-thapar/Quantum-Computing/commits?author=SanyaNanda" title="Documentation">📖</a><a href="https://github.com/developer-student-club-thapar/Quantum-Computing/commits?author=SanyaNanda" title="Code">💻</a> <a href="https://github.com/developer-student-club-thapar/Quantum-Computing/commits?author=SanyaNanda" title="Design">🎨</a></td>
     
-    
-   </tr>
- <tr>
     <td align="center"><a href="https://www.linkedin.com/in/apurvi-garg-43b363207/"><img src="https://avatars.githubusercontent.com/u/96242449?v=4" width="100px;" alt=""/><br /><sub><b>Apurvi Garg</b></sub></a><br /><a href="https://github.com/developer-student-club-thapar/Quantum-Computing/commits?author=ApurviGarg" title="Code">💻</a></td>
- <tr>
+    
     <td align="center"><a href="https://www.linkedin.com/in/hsk4link/"><img src="https://avatars.githubusercontent.com/u/31770598?v=4" width="100px;" alt=""/><br /><sub><b>Harishankar Kumar</b></sub></a><br /><a href="https://github.com/developer-student-club-thapar/Quantum-Computing/commits?author=hari01584" title="Code">💻</a></td>
- <tr>
+
     <td align="center"><a href="https://www.linkedin.com/in/pramit-deep-kaur-gogna/"><img src="https://avatars.githubusercontent.com/u/65402284?v=4" width="100px;" alt=""/><br /><sub><b>Pramit Deep Kaur Gogna</b></sub></a><br /><a href="https://github.com/developer-student-club-thapar/Quantum-Computing/commits?author=Pramit29" title="Code">💻</a></td>    
    </tr>
 </table>
